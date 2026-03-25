@@ -1,0 +1,127 @@
+/* Australian Open - Dark (Default) */
+[data-theme="ao-dark"] {
+  --bg-primary: #040e1f;
+  --bg-card: #0a1929;
+  --bg-elevated: #0d2137;
+  --text-primary: #ffffff;
+  --text-secondary: #8899aa;
+  --accent: #FFD700;
+  --accent-secondary: #0A3B7E;
+  --accent-hover: #ffd900cc;
+  --border: #1a3a5c;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}
+
+/* Australian Open - Light */
+[data-theme="ao-light"] {
+  --bg-primary: #e8f0fe;
+  --bg-card: #ffffff;
+  --bg-elevated: #f0f6ff;
+  --text-primary: #0A3B7E;
+  --text-secondary: #4a6080;
+  --accent: #0A3B7E;
+  --accent-secondary: #FFD700;
+  --accent-hover: #0a3b7ecc;
+  --border: #b8d0f0;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}
+
+/* Roland Garros - Dark */
+[data-theme="rg-dark"] {
+  --bg-primary: #1a0a05;
+  --bg-card: #2a1208;
+  --bg-elevated: #3a1a0a;
+  --text-primary: #ffffff;
+  --text-secondary: #aa8877;
+  --accent: #C84B31;
+  --accent-secondary: #2D5016;
+  --accent-hover: #c84b31cc;
+  --border: #5a2a18;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}
+
+/* Roland Garros - Light */
+[data-theme="rg-light"] {
+  --bg-primary: #fdf0e8;
+  --bg-card: #ffffff;
+  --bg-elevated: #fef6f0;
+  --text-primary: #5a1a08;
+  --text-secondary: #8a5040;
+  --accent: #C84B31;
+  --accent-secondary: #2D5016;
+  --accent-hover: #c84b31cc;
+  --border: #e8c0a0;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}
+
+/* Wimbledon - Dark */
+[data-theme="wim-dark"] {
+  --bg-primary: #021a0e;
+  --bg-card: #042a18;
+  --bg-elevated: #063820;
+  --text-primary: #ffffff;
+  --text-secondary: #88aa99;
+  --accent: #00573F;
+  --accent-secondary: #44006B;
+  --accent-hover: #00573fcc;
+  --border: #0a5a30;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}
+
+/* Wimbledon - Light */
+[data-theme="wim-light"] {
+  --bg-primary: #f0faf4;
+  --bg-card: #ffffff;
+  --bg-elevated: #f8fff9;
+  --text-primary: #00573F;
+  --text-secondary: #407060;
+  --accent: #00573F;
+  --accent-secondary: #44006B;
+  --accent-hover: #00573fcc;
+  --border: #a0d0b8;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}
+
+/* US Open - Dark */
+[data-theme="uso-dark"] {
+  --bg-primary: #08081a;
+  --bg-card: #10102a;
+  --bg-elevated: #18183a;
+  --text-primary: #ffffff;
+  --text-secondary: #8888aa;
+  --accent: #FF6B35;
+  --accent-secondary: #1A1A2E;
+  --accent-hover: #ff6b35cc;
+  --border: #2a2a5a;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}
+
+/* US Open - Light */
+[data-theme="uso-light"] {
+  --bg-primary: #fff0e8;
+  --bg-card: #ffffff;
+  --bg-elevated: #fff8f0;
+  --text-primary: #1A1A2E;
+  --text-secondary: #505070;
+  --accent: #FF6B35;
+  --accent-secondary: #1A1A2E;
+  --accent-hover: #ff6b35cc;
+  --border: #f0c0a0;
+  --rating-low: #ef4444;
+  --rating-mid: #f59e0b;
+  --rating-high: #22c55e;
+}

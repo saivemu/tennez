@@ -39,3 +39,9 @@ supabase/.temp/
 # misc
 *.tsbuildinfo
 next-env.d.ts
+
+# claude code
+.claude/
+
+# dev logs
+last_conversation.md
