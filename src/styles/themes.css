@@ -1,0 +1,133 @@
+/* =============================================================
+   Tennez Grand Slam Theme System
+   8 variants: 4 tournaments × light/dark
+   Applied via data-theme attribute on <html>
+   ============================================================= */
+
+/* ---- Australian Open Dark (default) ---- */
+[data-theme="ao-dark"] {
+  --bg-primary:       #060F1E;
+  --bg-card:          #0D1F3C;
+  --bg-elevated:      #112347;
+  --text-primary:     #F0F4FF;
+  --text-secondary:   #8BA3C7;
+  --accent:           #FFD700;
+  --accent-secondary: #0A3B7E;
+  --accent-hover:     #FFE44D;
+  --border:           #1A2E50;
+  --rating-low:       #EF4444;
+  --rating-mid:       #F59E0B;
+  --rating-high:      #22C55E;
+}
+
+/* ---- Australian Open Light ---- */
+[data-theme="ao-light"] {
+  --bg-primary:       #EEF3FF;
+  --bg-card:          #FFFFFF;
+  --bg-elevated:      #F5F8FF;
+  --text-primary:     #060F1E;
+  --text-secondary:   #4A6380;
+  --accent:           #0A3B7E;
+  --accent-secondary: #FFD700;
+  --accent-hover:     #0D4A9E;
+  --border:           #C8D7F0;
+  --rating-low:       #DC2626;
+  --rating-mid:       #D97706;
+  --rating-high:      #16A34A;
+}
+
+/* ---- Roland Garros Dark ---- */
+[data-theme="rg-dark"] {
+  --bg-primary:       #1A0A06;
+  --bg-card:          #2A1510;
+  --bg-elevated:      #331A13;
+  --text-primary:     #FAF0E6;
+  --text-secondary:   #C4956A;
+  --accent:           #C84B31;
+  --accent-secondary: #2D5016;
+  --accent-hover:     #D9634A;
+  --border:           #3D2218;
+  --rating-low:       #EF4444;
+  --rating-mid:       #F59E0B;
+  --rating-high:      #22C55E;
+}
+
+/* ---- Roland Garros Light ---- */
+[data-theme="rg-light"] {
+  --bg-primary:       #FDF5EE;
+  --bg-card:          #FFFFFF;
+  --bg-elevated:      #FEF8F3;
+  --text-primary:     #1A0A06;
+  --text-secondary:   #7A4A30;
+  --accent:           #C84B31;
+  --accent-secondary: #2D5016;
+  --accent-hover:     #A83D28;
+  --border:           #EAC9B0;
+  --rating-low:       #DC2626;
+  --rating-mid:       #D97706;
+  --rating-high:      #16A34A;
+}
+
+/* ---- Wimbledon Dark ---- */
+[data-theme="wim-dark"] {
+  --bg-primary:       #04140C;
+  --bg-card:          #081F12;
+  --bg-elevated:      #0C2718;
+  --text-primary:     #F0FFF4;
+  --text-secondary:   #7DC49A;
+  --accent:           #00573F;
+  --accent-secondary: #44006B;
+  --accent-hover:     #006B4F;
+  --border:           #103020;
+  --rating-low:       #EF4444;
+  --rating-mid:       #F59E0B;
+  --rating-high:      #22C55E;
+}
+
+/* ---- Wimbledon Light ---- */
+[data-theme="wim-light"] {
+  --bg-primary:       #F0FFF4;
+  --bg-card:          #FFFFFF;
+  --bg-elevated:      #F5FFFA;
+  --text-primary:     #04140C;
+  --text-secondary:   #2D6B48;
+  --accent:           #00573F;
+  --accent-secondary: #44006B;
+  --accent-hover:     #00714F;
+  --border:           #B3DCC4;
+  --rating-low:       #DC2626;
+  --rating-mid:       #D97706;
+  --rating-high:      #16A34A;
+}
+
+/* ---- US Open Dark ---- */
+[data-theme="uso-dark"] {
+  --bg-primary:       #07071A;
+  --bg-card:          #0F0F2B;
+  --bg-elevated:      #141433;
+  --text-primary:     #F5F5FF;
+  --text-secondary:   #9090C0;
+  --accent:           #FF6B35;
+  --accent-secondary: #1A1A2E;
+  --accent-hover:     #FF8555;
+  --border:           #1C1C3A;
+  --rating-low:       #EF4444;
+  --rating-mid:       #F59E0B;
+  --rating-high:      #22C55E;
+}
+
+/* ---- US Open Light ---- */
+[data-theme="uso-light"] {
+  --bg-primary:       #F5F5FF;
+  --bg-card:          #FFFFFF;
+  --bg-elevated:      #FAFAFF;
+  --text-primary:     #07071A;
+  --text-secondary:   #4A4A7A;
+  --accent:           #D94F1E;
+  --accent-secondary: #1A1A2E;
+  --accent-hover:     #B84318;
+  --border:           #CACAF0;
+  --rating-low:       #DC2626;
+  --rating-mid:       #D97706;
+  --rating-high:      #16A34A;
+}
